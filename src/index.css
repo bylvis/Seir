@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html,body{
+  width: 98.5%;
+  height: 98%;
+  background-color: #3F4756;
+}
+div {
+  width: 100%;
+  height: 100%;
+}
